@@ -1,7 +1,7 @@
 
 capital = 200000
-risk_percentage = 1 / 100  # Convert percentage to decimal
-position_size_percentage = 20 / 100  # Convert percentage to decimal
+risk_percentage = 0.75/ 100  # Convert percentage to decimal
+position_size_percentage = 15 / 100  # Convert percentage to decimal
 risk_amount = capital * risk_percentage
 position_size = capital * position_size_percentage
 
